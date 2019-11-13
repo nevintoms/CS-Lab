@@ -65,6 +65,6 @@ void main()
     fclose(f3);
     fclose(f4);
     fclose(f5);
-    printf("\nPass 2 \n");
+    printf("\nPass 2 is successful\n");
 
 }
